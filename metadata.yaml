@@ -1,0 +1,29 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Francis-Parkman_58778
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parkman, Francis
+    alias: Parkman, F. (Francis)
+    birthdate: 1823
+    deathdate: 1893
+    gutenberg_agent_id: '510'
+    url: http://www.gutenberg.org/2009/agents/510
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Francis Parkman
+url: http://www.gutenberg.org/ebooks/58778
